@@ -1,0 +1,16 @@
+.coin-flipper-container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: aquamarine; */
+    margin: 0 auto;
+    border: .5px dashed black;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
